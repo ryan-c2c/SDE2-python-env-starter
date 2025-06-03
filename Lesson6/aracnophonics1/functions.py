@@ -29,7 +29,7 @@ def print_spider(tries,spiderList):
 
 #Opens the word list text file, stores the contents into a list, chooses a random word from the list, finds the length of that word and prints a string of blanks for each letter in the word. Returns the word.
 def generate_word():
-  wordList = open('words.txt').read().split()
+  wordList = open('Lesson6/aracnophonics1/words.txt').read().split()
   word = random.choice(wordList)
   print('Word = ' + '_'*len(word))
   return word
