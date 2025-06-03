@@ -1,0 +1,3 @@
+guest_list = ['josylin', 'jolie', 'deshawn', 'zion', 'chandon', 'edward', 'ezekiel', 'david r', 'kevin', 'kamari', 'hanna', 'jose', 'omar', 'ashton', 'mazeon', 'umar', 'joel', 'javon', 'david S', 'esmeralda', 'nicholaus', 'ka liel', 'makayla', 'demetrius', 'fatima', 'perpetue', 'adrianna', 'nurya', 'ghislaine', 'carlos', 'dion', 'eric', 'zanai', 'michelle', 'robert', 'anniah', 'than', 'quinten', 'antar', 'lynne', 'joshua', 'kiara', 'christvie', 'e montae', 'kamylle', 'elenna wren', 'nashaly', 'lakiyah']
+
+rsvp_list = ['anniah', 'esmeralda', 'hanna', 'deshawn', 'lynne']
