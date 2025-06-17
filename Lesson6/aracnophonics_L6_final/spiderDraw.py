@@ -1,7 +1,7 @@
   #spider0
 def spider_0():
   print(f"""
-        - - - - - - - -
+        - - - - - - - 
         
         
         
