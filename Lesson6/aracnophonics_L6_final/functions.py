@@ -12,9 +12,9 @@ def check_word():
 
 
 # Returns the word to the console containing "_" for any letter not guessed by the user.
-#Takes in the correct word and the list of correct guesses as parameters
-def print_word():
-  pass
+# To the repo
+def print_word(word, correct):
+  print([letter if letter in correct else '_' for letter in word])
 
 
 
