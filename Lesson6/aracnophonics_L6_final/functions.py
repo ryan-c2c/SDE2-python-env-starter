@@ -19,7 +19,7 @@ def print_word(word, correct):
 
 
 # Prints spider from the spider drawing functions in the spiderDraw.py file. Takes the number of wrong guesses and the list of spider drawing functions as parameters.
-
+# Trivial comment
 def print_spider(tries,spiderList):
   spiderList[tries]()
   
